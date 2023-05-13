@@ -1,16 +1,3 @@
-
-
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的主页!&center=true&size=27">
-  </a>
-</h1>
-
-
-
-
-
-
 ### Hi there 👋
 
 <!--
@@ -32,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 A graduate student in pure mathematics
 - 😄 Everyone is welcome to click on my [blog](https://tutu.myipdns.top) 
 - 🤔 This is for you
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized-light" />
 
