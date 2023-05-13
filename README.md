@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 🌱 A graduate student in pure mathematics
 - 😄 Everyone is welcome to click on my [blog](https://tutu.myipdns.top) 
 - 🤔 This is for you
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
