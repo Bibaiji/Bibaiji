@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I am Bibaiji 
-- 🌱 I am a graduate student in pure mathematics
+- 🌱 A graduate student in pure mathematics
 - 😄 Everyone is welcome to click on my [blog](https://tutu.myipdns.top) 
 - 🤔 This is for you
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
